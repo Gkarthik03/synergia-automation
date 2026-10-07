@@ -19,5 +19,6 @@ public class ScrumMasterDashboardPage {
         return driver.getCurrentUrl()
                 .toLowerCase()
                 .contains("scrum-master");
+
     }
 }
