@@ -1,4 +1,4 @@
-package pages;
+package com.synergia.pages;
 
 public class ExecutiveDashboardPage {
 }
